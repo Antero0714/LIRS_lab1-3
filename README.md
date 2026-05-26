@@ -1,2 +1,2 @@
-# LIRS_lab1-3
-Использование фильтров обработки изображения (OpenCV)
+LIRS_lab1-3
+Using image processing filters (OpenCV)
